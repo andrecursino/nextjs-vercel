@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "nextjs-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrecursino/nextjs-vercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrecursino/nextjs-vercel/issues"
+  },
+  "homepage": "https://github.com/andrecursino/nextjs-vercel#readme",
+  "description": ""
+}
