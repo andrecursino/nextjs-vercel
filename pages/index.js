@@ -1,10 +1,8 @@
 import {useState} from 'react';
+import App from './teste.js'
 
 function Home() {
-  return(
-        <div>
-          <h1>Página Nova</h1>
-        </div>)
+  return(<App />)
 }
 
 export default Home
